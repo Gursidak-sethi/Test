@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is a test file created to test git.
 Also to test divergence.
+=======
+This is something that will result into divergence.
+Changes made to check confilcts.
+>>>>>>> f2
