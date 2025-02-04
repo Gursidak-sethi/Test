@@ -1,1 +1,2 @@
+Added another line.
 This is another file to show merge conflicts.
