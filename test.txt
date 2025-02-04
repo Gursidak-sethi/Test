@@ -1,1 +1,2 @@
 This is something that will result into divergence.
+Changes made to check confilcts.
